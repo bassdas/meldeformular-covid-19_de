@@ -6,8 +6,8 @@ Meldung zum klinischen Befund nach positivem Laborbefund
 Offizielles PDF vom BAG mittels PDF Formular nun bearbeit- und speicherbar.
 1) Eingabe digital
 2) PDF Speicherung und Ablage
-3a) Versand digital per E-Mail oder Uploaddienst (Eingaben könnten mittels Copy+Past übernommen werden)
-3b) ODER ausdrucken & per Fax senden (Schrift besser lesbar)
+3) Versand digital per E-Mail oder Uploaddienst (Eingaben könnten mittels Copy+Past übernommen werden)
+ODER ausdrucken & per Fax senden (Schrift besser lesbar)
 
 Feedback & Korrekturen bitte melden!
 
